@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ManejoDeTienda/Program.cs
+/Program BLINQ.cs
+/ConsoleApp/ConsoleApp/Program.cs
